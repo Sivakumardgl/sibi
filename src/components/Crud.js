@@ -11,7 +11,7 @@ export default function Crud() {
     })
     return (
         <div>
-            <input type='text'onChange={(ad)=>setId(ad.target.value)}/>
+            <input type='text'onChange={(ads)=>setId(ads.target.value)}/>
            <h1>{value.name} {value.marks}</h1> 
             {/* <table>
                 <thead>

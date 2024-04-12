@@ -37,7 +37,7 @@ export default function CreateRead() {
             <input type='text'placeholder='Your Name'  onChange={(e)=>{setName(e.target.value)}}/><br></br>
             <label>Mark</label>
             <input type='number'placeholder='Your Mark' onChange={(e)=>{setMarks(e.target.value)}}/><br></br>
-            <button type='submit'>Subm/it</button><br></br>
+            <button type='submit'>Submit</button><br></br>
             
            
         </form>

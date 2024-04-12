@@ -1,0 +1,24 @@
+body{
+    background-color: red;
+}
+    
+ table{
+    background-color: aqua;
+    text-align: center;
+}
+form{
+    background-color: blueviolet;
+    width: 500px;
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 250px;
+}
+input{
+    height: 20px;
+    width: 200px;
+}
+.regform h2{
+    color: white;
+
+}
+
